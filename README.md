@@ -11,5 +11,5 @@ My first repository
 - Lucas Sinclair	
 - Nancy Wheeler	
 - Jonathan Byers
-** For watching, just visit the link. **
+
 [Stranger Things] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiry5_FhdeCAxX2fGwGHQJvDDsQFnoECDEQAQ&url=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F80057281&usg=AOvVaw3pF_-NcG6DPtSPIGlet3-w&opi=89978449)
