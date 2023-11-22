@@ -1,8 +1,10 @@
 # app-dev
 My first repository
+
 **STRANGER THINGS SERIES**
-* Stranger Things is an American science fiction horror drama television series created by the Duffer Brothers for Netflix. Produced by Monkey Massacre Productions and 21 Laps Entertainment, the first season was released on Netflix on July 15, 2016.*
-** The main characters are the following: *
+
+Stranger Things is an American science fiction horror drama television series created by the Duffer Brothers for Netflix. Produced by Monkey Massacre Productions and 21 Laps Entertainment, the first season was released on Netflix on July 15, 2016.*
+** The main characters are the following: 
 - Joyce Byers	
 - Jim Hopper	
 - Mike Wheeler	
